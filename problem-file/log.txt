@@ -41,3 +41,7 @@ wow that was horrible, i knew i had to use a simple char convert loop and then j
 
 problem 9:
 not as bad to get working had a few bumps like that i just completey forget that a ^ 2 isnt square but XOR lol and i accidently kept panicking the thread by setting the c upper bound too high. but ultimately got there in the end.
+
+problem 20:
+
+modified version of 16 to solve this one, enough ball buster though tbh, i dont like do big calculations one because they arent very hard just tedious af.
