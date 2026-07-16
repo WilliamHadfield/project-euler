@@ -4,3 +4,12 @@ problem 2 was easy took me a few errors with runtime panics lol (in safe rust bt
 
 not a fan of problem 3 just looked up a solution its essentially a mini crpytograhpy puzzle because there is no "efficent" algorithm because well prime numbers are like the biggest unsolved mystery in the world lol
 wasnt fun.
+
+problem 4-
+
+wasnt really that bad the palindrome function was tedious, i just found it online then ran into a small bug with shadowing instead of:
+highest = container;
+
+i had let highest = container;
+
+which shadowed it each interval which wasnt great.
