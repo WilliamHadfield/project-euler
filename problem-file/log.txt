@@ -35,3 +35,6 @@ turns out the algebra manipulation was neccasary as you needed to realises that 
 
 
 i am now doing it from difficuly upwards instead of order, because i think get a wide breadth of 0 rated problems before slowly making my way up is better.
+
+problem 16:
+wow that was horrible, i knew i had to use a simple char convert loop and then just sum the digits but my god did it take a while to get bigint working.
