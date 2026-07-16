@@ -15,3 +15,7 @@ i had let highest = container;
 which shadowed it each interval which wasnt great.
 
 decided i am skipping problem 5 cause i was just gonna bruteforce it with i % 1 == 0 twenty times which i just gave up on
+
+problem 6-
+
+very simple, had one little forgeting = at the end of a 1..=n but apart from that oneshotted it.
