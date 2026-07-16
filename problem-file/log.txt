@@ -19,3 +19,12 @@ decided i am skipping problem 5 cause i was just gonna bruteforce it with i % 1 
 problem 6-
 
 very simple, had one little forgeting = at the end of a 1..=n but apart from that oneshotted it.
+
+
+problem 66- got ambitious so trying a harder problem now.
+
+intially tried algebra manipluation to get:
+
+1/y^2 ( x^2 - 1) = d
+
+however this is naieve because i can choose y and x so, its about finding the optimal relationship between x and y as D increases.
