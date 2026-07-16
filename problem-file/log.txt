@@ -38,3 +38,6 @@ i am now doing it from difficuly upwards instead of order, because i think get a
 
 problem 16:
 wow that was horrible, i knew i had to use a simple char convert loop and then just sum the digits but my god did it take a while to get bigint working.
+
+problem 9:
+not as bad to get working had a few bumps like that i just completey forget that a ^ 2 isnt square but XOR lol and i accidently kept panicking the thread by setting the c upper bound too high. but ultimately got there in the end.
