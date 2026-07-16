@@ -1,1 +1,2 @@
 
+problem 2 was easy took me a few errors with runtime panics lol (in safe rust btw) cause i was using a loop and forget to break.
