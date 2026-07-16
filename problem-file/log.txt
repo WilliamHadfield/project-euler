@@ -3,3 +3,4 @@ problem 2 was easy took me a few errors with runtime panics lol (in safe rust bt
 
 
 not a fan of problem 3 just looked up a solution its essentially a mini crpytograhpy puzzle because there is no "efficent" algorithm because well prime numbers are like the biggest unsolved mystery in the world lol
+wasnt fun.
