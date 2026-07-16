@@ -28,3 +28,10 @@ intially tried algebra manipluation to get:
 1/y^2 ( x^2 - 1) = d
 
 however this is naieve because i can choose y and x so, its about finding the optimal relationship between x and y as D increases.
+
+turns out the algebra manipulation was neccasary as you needed to realises that x/y is slightly larger than the square root of D and therefore its a fraction convergent solution which is a piece of tech i didnt know but it goes something like this:
+
+-nvm i give up i come back to this problem later.
+
+
+i am now doing it from difficuly upwards instead of order, because i think get a wide breadth of 0 rated problems before slowly making my way up is better.
