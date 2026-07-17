@@ -1,4 +1,4 @@
-
+16/07/2026
 problem 2 was easy took me a few errors with runtime panics lol (in safe rust btw) cause i was using a loop and forget to break.
 
 
@@ -46,6 +46,7 @@ problem 20:
 
 modified version of 16 to solve this one, enough ball buster though tbh, i dont like do big calculations one because they arent very hard just tedious af.
 
+17/07/2026
 problem 7:
 this requires the sieve of erathensis which is a recurring pattern and very useful to learn essentially how it works is this:
 first you need to know the known number to find out a sequence or you need a known number to find out how many prime numbers sit in that range, then you square root the number so if n = 100 then square root it and get 10, and therefore you just have to search every number up to 10 and its multiplications to get all the prime numbers up to 100, it so simple yet so cool and effective.
