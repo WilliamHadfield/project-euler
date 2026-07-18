@@ -57,3 +57,6 @@ additionally you need to use the prime number theorem to estimate the non prime 
 holy hell that was awful nvm, indexing shengigans really humbled me here but guess i learnt a few things on the way!
 18/07/2026
 
+problem 36:
+
+
