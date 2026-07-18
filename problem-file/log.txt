@@ -60,3 +60,20 @@ holy hell that was awful nvm, indexing shengigans really humbled me here but gue
 problem 36:
 essentially you need a binary converter and a method to evalulate the reverse of an integer with itself i think through chars and evaluating if both are true then some sort of vec to store the outputs up to 1_000_000 then just summing it and println that.
 
+holy shit, another one that was weird, tbh there all weird, this one required string converter plus double char iterator + reverse equal check. and i also found a neat thing about binary:
+take a number, 32 for example the way you calculate what it would be in binary is like so:
+
+32 / 2 = 16 therefore digit = 0
+16 / 2 = 8 therefore = 0
+8/ 2 = 4 therefore = 0
+4 / 2 = 2 therefore = 0
+2 / 2 = 1 therefore 0
+1 / 2 has remainder therefore = 1
+then you reverse and:
+1 0 0 0 0 0 which equals 32 in decimal, pretty cool right?
+
+cliff notes:
+if dividing a decimal by 2 and it divided with no remainder = 0, if has remainder = 1
+
+problem 34:
+
