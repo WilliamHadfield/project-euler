@@ -53,6 +53,6 @@ first you need to know the known number to find out a sequence or you need a kno
 
 essentially my solution which i borrowed online (ik against the rules, but a mans gotta learn somehow?) involves a sieve of erthenes based on a vector of bool, 
 which kinda like a game of guess who, you count out what you know isnt a prime number until your just left with the prime numbers (root n = maximum number you need to count to).
-
+additionally you need to use the prime number theorem to estimate the non prime numbers to get to around the 10001 prime number (x/ log(x) is roughly equivalent to the distrubiton or number of prime numbers).
 18/07/2026
 
