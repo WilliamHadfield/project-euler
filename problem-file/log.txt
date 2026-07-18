@@ -50,3 +50,6 @@ modified version of 16 to solve this one, enough ball buster though tbh, i dont 
 problem 7:
 this requires the sieve of erathensis which is a recurring pattern and very useful to learn essentially how it works is this:
 first you need to know the known number to find out a sequence or you need a known number to find out how many prime numbers sit in that range, then you square root the number so if n = 100 then square root it and get 10, and therefore you just have to search every number up to 10 and its multiplications to get all the prime numbers up to 100, it so simple yet so cool and effective.
+
+essentially my solution which i borrowed online (ik against the rules, but a mans gotta learn somehow?) involves a sieve of erthenes based on a vector of bool, which kinda like a game of guess who, you count out what you know isnt a prime number until your just left with the prime numbers (root n = maximum number you need to count to).
+
