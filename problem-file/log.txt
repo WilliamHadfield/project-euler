@@ -76,4 +76,4 @@ cliff notes:
 if dividing a decimal by 2 and it divided with no remainder = 0, if has remainder = 1
 
 problem 34:
-
+handily i can use my factorial counter from problem 20 and then build a system up to 1 million 
