@@ -58,5 +58,5 @@ holy hell that was awful nvm, indexing shengigans really humbled me here but gue
 18/07/2026
 
 problem 36:
-
+essentially you need a binary converter and a method to evalulate the reverse of an integer with itself i think through chars and evaluating if both are true then some sort of vec to store the outputs up to 1_000_000 then just summing it and println that.
 
