@@ -113,3 +113,7 @@ problem 48:
 just reutillized big int and number trait, not really that hard except from a few bugs:
 had an issue where i had my answer the wrong way around because i had .rev() it and forget to .rev() it again and started with 1 instead of 0, which was also painful
 but i got it done
+
+problem 28:
+once you look past the structure the problem is essentially just a recurring sequence with an starting number:
+4 * roughly bigger than the previous and then just loop that 500 times.
