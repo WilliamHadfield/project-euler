@@ -80,3 +80,8 @@ problem 34:
 handily i can use my factorial counter from problem 20 and then build a system up to 1 million.
 honestly? this problem was tedious more than anything, it wasnt excatly that tricky, the only thing is that i needed claude to catch a bug with casting a character to u32 rather than use the to_digit(10) method which explicty converts to base 10 or decimal rather than casting the digit.
 and a bug with my factorial calculator, rather than calculating the factorial i was calculating the sum of the digits, but another nested loop sorted that out.
+
+
+problem 30:
+
+found a neet trick online that works for any digit based calculation you essentially just create a lookup table so you dont have to recalculate every time.
