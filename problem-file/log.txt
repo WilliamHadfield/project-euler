@@ -85,3 +85,4 @@ and a bug with my factorial calculator, rather than calculating the factorial i 
 problem 30:
 
 found a neet trick online that works for any digit based calculation you essentially just create a lookup table so you dont have to recalculate every time.
+then combine that with the simple digit char trick which i used in the preivous question...
