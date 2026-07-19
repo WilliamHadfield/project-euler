@@ -1,3 +1,5 @@
+disclaimer - ai was used in the explanation of some of the techinques used and explanation of some of the syntax / ways of expression like certian iterator techinques, but everything was HAND WRITTEN.
+
 16/07/2026
 problem 2 was easy took me a few errors with runtime panics lol (in safe rust btw) cause i was using a loop and forget to break.
 
@@ -92,3 +94,9 @@ used enumerate and it made it fine.
 problem 10:
 that was my quickest problem by far, just reused problem 7 sieve of erathenes, then swapped the returning a fixed prime number for a simple counter + for loop adding all prime numbers
 + a println statement and bam done.
+
+problem 52:
+
+this is a sort iterator problem, and sort actually makes it quite easy cause then you can just store a note to compare your iterator against.
+additonally a new thing is .all() which is an iterator method which is a nice shorthand that evaluates for a bool against the condition against every index, so in this case it evalulates that ever 2x 3x 4x 5x 6x is equivalent to x in its sorted order, 
+which is a very nice shorthand expression.
