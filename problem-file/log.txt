@@ -107,3 +107,9 @@ generally quite an interesting problem, thinking of utillizing the lookup table 
 update this problem is NOT easy, even getting the parser from the .txt was a bit of a pain.
 more tedious than anything, basically summed to a lot of converting
 although the unicode usage was cool, essentially exploiting unicode to mimic a look up table of A-Z -> 1-26 although this only works because all letters were capital.
+
+
+problem 48:
+just reutillized big int and number trait, not really that hard except from a few bugs:
+had an issue where i had my answer the wrong way around because i had .rev() it and forget to .rev() it again and started with 1 instead of 0, which was also painful
+but i got it done
