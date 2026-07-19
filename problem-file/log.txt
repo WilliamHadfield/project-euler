@@ -86,3 +86,4 @@ problem 30:
 
 found a neet trick online that works for any digit based calculation you essentially just create a lookup table so you dont have to recalculate every time.
 then combine that with the simple digit char trick which i used in the preivous question...
+turns out one of the trickiest bits of these question i need to learn is about upper bounds and how to find them like for this one comparing the max of 9^5 x 7 for a 7 digit number to 1_000_000 or the minimum 7 digit number shows that no 7 digit number can be represented by the 5th power of its digits because they simply cant get big enough.
