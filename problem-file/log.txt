@@ -117,3 +117,9 @@ but i got it done
 problem 28:
 once you look past the structure the problem is essentially just a recurring sequence with an starting number:
 4 * roughly bigger than the previous and then just loop that 500 times.
+
+problem 39:
+essentially the solution needs to fuffill a few conditions:
+a =< b =< c a^2 + b ^2 =c and a+ b+c <= 1000
+and its just representing this is in a way that you can then also track a running total of the amount of different solution that fufill all 3 of these criteria for each perimeter and finding the one
+that can do this the most amount of times with the same perimeter different combinations.
