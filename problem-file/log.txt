@@ -123,3 +123,8 @@ essentially the solution needs to fuffill a few conditions:
 a =< b =< c a^2 + b ^2 =c and a+ b+c <= 1000
 and its just representing this is in a way that you can then also track a running total of the amount of different solution that fufill all 3 of these criteria for each perimeter and finding the one
 that can do this the most amount of times with the same perimeter different combinations.
+
+
+problem 8:
+two parts of this were a bit tedious but also somewhat interesting first stripping the massive 1000 digit number and essentially what i did was turn it into a string and break it up into chars and then back to digits in one string and plopped it into a vec.
+then the second part was the more interesting bit, i found an interesting iterator method called .windows() which rather than iterates over 1 element can iterate a subslice of elements which is fascinating to me, defiently will use in the future and can act as a simplistic sliding window algorithm which is pretty neat, then i converted to u64 because u32 made it overflow and panic lol so needed the extra room.
